@@ -71,7 +71,7 @@ const App = () => {
     setImageUrl(input);
     console.log("submit");
 
-    fetch("https://glacial-sands-34875.herokuapp.com/imageUrl", {
+    fetch("http://localhost:5000/imageUrl", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -81,7 +81,7 @@ const App = () => {
       .then((response) => response.json())
       .then((response) => {
         if (response) {
-          fetch("https://glacial-sands-34875.herokuapp.com/image", {
+          fetch("http://localhost:5000/image", {
             method: "PUT",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
