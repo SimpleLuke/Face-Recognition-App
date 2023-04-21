@@ -153,7 +153,7 @@ Remember to give the project a star! Thanks again!
 - LinkedIn - [Luke Lai](https://www.linkedin.com/in/luke-lai-309a3522b/)
 - Twitter - [@LukeLaiDev](https://www.twitter.com/LukeLaiDev)
 
-Project Link: [**[E-commerce](https://github.com/SimpleLuke/e-commerce)**]
+Project Link: [**[Face Recognition App](https://github.com/SimpleLuke/Face-Recognition-App/)**]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
